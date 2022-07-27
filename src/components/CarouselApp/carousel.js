@@ -9,11 +9,7 @@ function Slider() {
     <Carousel>
       <Carousel.Item>
         <div className='container-carousel'>
-        <img
-          className="d-block w-100"
-          src={Uncharted}
-          alt="First slide"
-        />
+        <img className="d-block w-100" src={Uncharted}  alt="First slide"/>
         </div>
         <Carousel.Caption>
           

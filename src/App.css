@@ -48,6 +48,8 @@
   
 }
 
+
+
 .Texto
 {
   margin: 30px;
@@ -62,4 +64,13 @@
   }
 }
 
+.d-block {
+  height: 900px;
+}
+
+.card-group{
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-bottom: 50px;
+}
 
